@@ -1,3 +1,4 @@
 # E-commerce-WebApp
 E commerce app using React, Strappi, Stripe
-![Alt Text]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1MDEzNGEyZWY4NjIxMGYzMDViZDdhMDI2YjA2ZWI3ZmNjZWEyYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/621VucEuR1EhJgoKNY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx6dHFiY2ZlZGZ5bmRpYjJseWJleWFyajlrYWF0ZDR3cmp1ZXNieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWf8j3VWtzeKYQdcdK/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx6dHFiY2ZlZGZ5bmRpYjJseWJleWFyajlrYWF0ZDR3cmp1ZXNieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWf8j3VWtzeKYQdcdK/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVhODU0bDBwM2N0MnR5Y3p3ZHV3N3NqMWt1cW02Yjh5aGlsbm9rMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/973p8dVPno8VgH94dI/giphy.gif)
